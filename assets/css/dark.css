@@ -1,0 +1,178 @@
+body {
+    color: #dbe2fb;
+    background: #001232;
+}
+
+.section-heading .title,
+.single-team .content .name,
+.pagination .page-item .page-link,
+.categori-widget .cat-list li a p,
+.comment-area .comment-box-area li .comment-box .right .name
+{
+    color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.compare-section .compare-table tbody th,
+.compare-section .compare-table thead .product-title,
+.section-title .title,
+.testimonial-area .testimonial-slider .client .client-name a,
+.faq .accordion .panel-title,
+.feature .feature-box .details .title,
+.whaybest .info .info-title,
+.about .box .inner-box .title,
+.navigation.stiky-nav .navbar #mainmenu ul .nav-item .nav-link,
+.single-team .content .designation,
+.input-field,
+.pricing2 .pricing-tab .tab-menu #my-tab .nav-item .nav-link,
+.start-invest .tab-menu-area .nav-lend .nav-item .nav-link,
+.start-invest .table tr th,
+.start-invest .table tr td,
+.tax-calculator .box-calculator .form-group label,
+.hero-area .left-content .content .subscribe-area .subscribe-form input,
+.mainmenu-area .navbar .base-btn2
+{
+    color: #ffff;
+}
+
+p,
+span,
+a,
+i,
+.compare-section .compare-table thead .product-subtitle,
+.section-title p,
+.testimonial-area .testimonial-slider .client .designation,
+.dealofweek .deal-slider-area .content .right-area .price del,
+.comment-area .comment-box-area li .comment-box .right .date
+{
+    color: #dbe2fb;
+}
+
+
+.single-counter,
+.choose_us,
+.choose_us .cu-content,
+.pricing2 .price-box,
+.single-how-it-work,
+.start-invest .table,
+.start-invest .table tr th,
+.our-advantage,
+.single-team,
+.single-review,
+.tax-calculator .box-calculator,
+.faq-area,
+.single-accordion .accordion-body,
+.choose_us,
+.start-invest,
+.auth .sign-form,
+.pagination .page-item .page-link,
+.categori-widget,
+.latest-post-widget,
+.single-blog-details .content blockquote,
+.newsletter-widget,
+.comment-area .comment-box-area li,
+.write-comment .input-field,
+.comment-area .comment-box-area li .comment-box .left .replay:hover,
+.newsletter-widget form .input-field,
+.contact .contact-form-wrapper,
+.contact .contact-form-wrapper:before,
+.contact .contact-form-wrapper .form-group .input-field,
+.auth .sign-form .form-control,
+.start-invest .table tr:hover ,
+.tax-calculator .box-calculator .form-group .input-field,
+.hero-area .left-content .content .subscribe-area .subscribe-form input,
+.video-play-btn:before,
+.video-play-btn,
+.mainmenu-area .navbar .base-btn2
+{
+    background: #032055;
+}
+
+.dark-ip1.start-invest  .table,
+.dark-ip1.start-invest  .table tr th,
+.dark-ip2,
+.start-invest .table,
+.start-invest .table tr th
+{
+    background: #001232;
+}
+
+
+.video-play-btn i {
+    background: -webkit-moz-gradient(to bottom, #fff, #fff);
+    background: linear-gradient(to bottom, #fff, #fff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.categori-widget .title,
+.latest-post-widget .title
+{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+
+.comment-area .comment-box-area li
+{
+    border: 0px;
+}
+
+
+.newsletter-widget form .input-field,
+.contact .contact-form-wrapper .form-group .input-field,
+.auth .sign-form .form-control,
+.tax-calculator .box-calculator .form-group .input-field
+{
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.choose_us .cu-menu li a .icon {
+    box-shadow: 0px 0px 15px rgb(255 255 255 / 15%);
+}
+
+.choose_us .cu-content {
+    box-shadow: 0px 0px 10px #4e3b7b;
+    border-radius: 10px;
+}
+
+.pricing2 .pricing-tab .tab-menu #my-tab .nav-item .nav-link,
+.start-invest .tab-menu-area .nav-lend .nav-item .nav-link
+{
+    box-shadow: 0px 0px 10px #4e3b7b; 
+}
+.hero-area .left-content .content .subscribe-area .subscribe-form input::placeholder{
+    color: #dbe2fb!important;
+}
+.hero-area .left-content .content .subscribe-area .subscribe-form input::-webkit-placeholder{
+    color: #dbe2fb!important;
+}
+.hero-area .left-content .content .subscribe-area .subscribe-form input::-moz-placeholder{
+    color: #dbe2fb!important;
+}
+.input-field::placeholder{
+    color: #dbe2fb!important;
+}
+.input-field::-webkit-placeholder{
+    color: #dbe2fb!important;
+}
+.input-field::-moz-placeholder{
+    color: #dbe2fb!important;
+}
+
+.mainmenu-area .navbar .base-btn2{
+    border: 0px;
+}
+
+.mainmenu-area .navbar .base-btn2:hover{
+    border: 0px;
+    background: linear-gradient(50deg, #6e00ff 0, #bb00ff 100%);
+}
+
+
+
+
